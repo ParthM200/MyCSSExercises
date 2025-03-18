@@ -1,0 +1,9 @@
+/* Semicolon after every element/line */
+div {
+    background-color: red;
+    color: white;
+    /* No space between number and px */
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
